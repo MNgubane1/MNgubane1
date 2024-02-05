@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MNgubane1/MNgubane1/master/gh-header-image-cropped.png"alt="banner that says Monica Powell - software engineer, content creator and community organizeralongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/MNgubane1/MNgubane1/master/Personal Profile LinkedIn Banner.png"alt="Web Developer (Back-end and front-end Developer)">
 ### Hi there 👋
 
 
