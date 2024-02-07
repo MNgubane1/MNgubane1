@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MNgubane1/MNgubane1/master/Personal Profile LinkedIn Banner.png" alt="Web Developer (back-end and front-end Developer)">
-🚀 Versatile Web Developer | HTML/CSS Expert with Strong Back-End Proficiency 🚀
+ Versatile Web Developer | HTML/CSS Expert with Strong Back-End Proficiency 
 
 Hello! I'm Mazwi Ngubane, a Versatile web developer with a strong foundation in front-end technologies and a comprehensive skill set in back-end programming. I bring creativity, precision, and a passion for innovation to every project.
 
