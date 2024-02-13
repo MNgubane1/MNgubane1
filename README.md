@@ -1,41 +1,76 @@
-<img src="https://raw.githubusercontent.com/MNgubane1/MNgubane1/master/Personal Profile LinkedIn Banner.png" alt="Web Developer (back-end and front-end Developer)">
 
 
-Hello! I'm Mazwi Ngubane, a web developer with a strong foundation in front-end technologies and a comprehensive skill set in back-end programming. I bring creativity, precision, and a passion for innovation to every project.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mazwi+Ngubane!;" />
+</h1>
 
-🌐 **Front-End Expertise:**
-- Proficient in crafting pixel-perfect and responsive user interfaces using HTML5 and CSS3.
-- Experience with modern front-end frameworks/libraries, including [mention any frameworks you've worked with, e.g., React, Vue.js].
+<h3 align="center">A passionate software developer from South Africa 🇨🇦</h3>
 
-💻 **Back-End Proficiency:**
-- **C#:** Expertise in developing robust back-end solutions using C# and the ASP.NET framework.
--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> Proficient in Java for building scalable and efficient server-side applications.
-- **C++:** Solid understanding of C++ for performance-oriented back-end development.
-- **Python:** Versatile in Python for web development, scripting, and automation.
+<br/>
 
-🔧 **Full Stack Capabilities:**
-- Bridging the gap between front-end and back-end technologies to deliver end-to-end solutions.
-- Expertise in utilizing version control systems, especially Git, for efficient collaboration.
+<div align="center">
+ 
+ 🔭 I’m currently working on **Designing Music Producer web site**
+ 
+ 🌱 I’m currently learning **PHP,Scala, Supabase, AWS**
 
-🌐 **Web Security and Optimization:**
-- Implementing security best practices to ensure secure web applications.
-- Optimizing web performance through efficient coding practices and tools.
+💬 Ask me about **Data Structures,asp.net core and asp.netMVC **
 
-🛠️ **Continuous Learner:**
-- Passionate about staying updated with the latest web technologies and trends.
-- Currently exploring  microservices architecture and cloud-based technologies.
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-🤝 **Let's Connect:**
-I'm excited about the prospect of contributing my skills to innovative projects. If you're looking for a web developer who can seamlessly blend front-end creativity with back-end robustness, let's connect! I'm eager to explore new opportunities and discuss how I can bring value to your team.
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-#WebDeveloper #FullStack #HTMLCSS #CSharp #Java #CPlusPlus #Python
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-#WebDeveloper #DotNet #CSharp #Algorithms #DataStructures #FullStack
--  ![Developer GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ6Z2Y3NWVwYjRvYWZ3NWp4YTQ1emQ3Y3d3bTR3bHk3cXJ4ZDN2dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-- ### My Github stats
-- ![MNgubane1 GitHub stats](https://github-readme-stats.vercel.app/api?username=MNgubane1&hide=contribs,prs
+<br/>
+<hr/>
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
+<hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
