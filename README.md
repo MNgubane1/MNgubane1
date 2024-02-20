@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Designing Music Producer web site**
  
- 🌱 I’m currently learning **PHP,Scala, **
+ 🌱 I’m currently learning **PHP,Scala, Hibernate and Grails **
 
 💬 Ask me about **Data Structures,asp.net core and asp.net MVC **
 
